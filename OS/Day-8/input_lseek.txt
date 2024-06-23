@@ -1,0 +1,4 @@
+This is example of O_TRUNC: Sample dile write2 using append file
+ New String append after seek end
+ New String append after seek end
+ New String append after seek end
